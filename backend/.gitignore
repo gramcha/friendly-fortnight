@@ -25,3 +25,5 @@ hs_err_pid*
 nohup.out
 
 target/
+
+src/main/resources/public/

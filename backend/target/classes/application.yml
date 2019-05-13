@@ -20,7 +20,7 @@ hystrix:
         isolation:
           strategy: THREAD
           thread:
-            timeoutInMilliseconds: 10000
+            timeoutInMilliseconds: 1320000
 ribbon:
   eager-load:
     enabled: true
